@@ -220,34 +220,34 @@ msgid "Використати Disqus коментарі"
 msgstr ""
 
 #: ../disqus/manage.php:292
-msgid "On all existing and future blog posts."
+msgid "На всі існуючі та майбутні повідомлення в блозі."
 msgstr ""
 
 #: ../disqus/manage.php:293
-msgid "Only on blog posts with closed comments."
+msgid "Тільки на блогах із закритими коментарями."
 msgstr ""
 
 #: ../disqus/manage.php:296
-msgid "Your WordPress comments will never be lost."
+msgid "Ваші коментарі WordPress ніколи не будуть втрачені."
 msgstr ""
 
 #: ../disqus/manage.php:301
-msgid "<h3>Sync</h3>"
+msgid "<h3>Синхронізація</h3>"
 msgstr ""
 
 #: ../disqus/manage.php:304
-msgid "Comment Sync"
+msgid "Синхронізація коментарів"
 msgstr ""
 
 #: ../disqus/manage.php:307
-msgid "Disable automated comment importing"
+msgid "Відключити автоматизований імпорт коментарів"
 msgstr ""
 
 #: ../disqus/manage.php:308
 msgid ""
-"If you have problems with WP-Cron taking too long, or have a large number of "
-"comments, you may wish to disable automated sync. Keep in mind this means "
-"comments will not automatically sync to your local WordPress database."
+"Якщо у вас є проблеми з WP-Cron займає надто багато часу, або мають велику кількість "
+"коментарів, ви можете відключити автоматизовані синхронізації. Майте на увазі, це означає, "
+"коментарі не будуть автоматично синхронізуватися з локальною базою даних WordPress."
 msgstr ""
 
 #: ../disqus/manage.php:312
@@ -259,11 +259,11 @@ msgid "Disable server-side rendering of comments"
 msgstr ""
 
 #: ../disqus/manage.php:316
-msgid "Hides comments from nearly all search engines."
+msgid "Приховувати коментарі від майже всіх пошукових систем."
 msgstr ""
 
 #: ../disqus/manage.php:321
-msgid "<h3>Patches</h3>"
+msgid "<h3>Патчі</h3>"
 msgstr ""
 
 #: ../disqus/manage.php:325
