@@ -267,29 +267,29 @@ msgid "<h3>Патчі</h3>"
 msgstr ""
 
 #: ../disqus/manage.php:325
-msgid "Template Conflicts"
+msgid "Конфлікти з шаблоном"
 msgstr ""
 
 #: ../disqus/manage.php:328
-msgid "Output JavaScript in footer"
+msgid "Вихідний JavaScript у колонтитул"
 msgstr ""
 
 #: ../disqus/manage.php:329
 #, php-format
 msgid ""
-"Enable this if you have problems with comment counts or other "
-"irregularities. For example: missing counts, counts always at 0, Disqus code "
-"showing on the page, broken image carousels, or longer-than-usual home page "
-"load times (<a href=\"%s\" onclick=\"window.open(this.href); return false"
-"\">more info</a>)."
+"Увімкніть цей параметр, якщо у вас є проблеми з рахуванням коментарями або іншого "
+"порушення. Наприклад: відсутнє рахування, розраховує завжди 0, Disqus код "
+"видно на сторінці, зламаною каруселі зображень, або довше, ніж зазвичай, головна сторінка "
+"завантажується (<a href=\"%s\" onclick=\"window.open(this.href); return false"
+"\">більше інформації</a>)."
 msgstr ""
 
 #: ../disqus/manage.php:334
 #, php-format
 msgid ""
-"<h3>Advanced</h3><h4>Single Sign-On</h4><p>Allows users to log in to Disqus "
-"via WordPress. (<a href=\"%s\" onclick=\"window.open(this.href); return false"
-"\">More info on SSO</a>)</p>"
+"<h3>Передовий</h3><h4>Проста авторизація</h4><p>Дозволити користувачам увійти в Disqus "
+"з WordPress. (<a href=\"%s\" onclick=\"window.open(this.href); return false"
+"\">Бліьше інформації на SSO</a>)</p>"
 msgstr ""
 
 #: ../disqus/manage.php:338
@@ -302,7 +302,7 @@ msgstr ""
 
 #: ../disqus/manage.php:349 ../disqus/manage.php:357
 #, php-format
-msgid "Found at <a href=\"%s\">Disqus API Applications</a>."
+msgid "Знайдений в <a href=\"%s\">Disqus API Applications</a>."
 msgstr ""
 
 #: ../disqus/manage.php:353
@@ -310,37 +310,37 @@ msgid "API Application Secret Key"
 msgstr ""
 
 #: ../disqus/manage.php:361
-msgid "Custom Log-in Button"
+msgid "Користувальницька кнопка входу"
 msgstr ""
 
 #: ../disqus/manage.php:411 ../disqus/manage.php:471
-msgid "Change"
+msgid "Змінити"
 msgstr ""
 
 #: ../disqus/manage.php:411 ../disqus/manage.php:471
-msgid "Choose"
+msgid "Вибрати"
 msgstr ""
 
 #: ../disqus/manage.php:411
-msgid "button"
+msgid "кнопка"
 msgstr ""
 
 #: ../disqus/manage.php:417
 #, php-format
 msgid ""
-"Adds a button to the Disqus log-in interface. (<a href=\"%s\">Example "
-"screenshot</a>.)"
+"Додає кнопку на Disqus входу в інтерфейс. (<a href=\"%s\">Приклад "
+"скріншотів</a>.)"
 msgstr ""
 
 #: ../disqus/manage.php:418
 #, php-format
 msgid ""
-"<br />See <a href=\"%s\">our SSO button documentation</a> for a template to "
-"create your own button."
+"<br />Переглянути <a href=\"%s\">наші SSO кнопка документація</a> для шаблону щоб "
+"створити власну вашу кнопку."
 msgstr ""
 
 #: ../disqus/manage.php:422
-msgid "Custom Log-in Icon<br>"
+msgid "<br>"
 msgstr ""
 
 #: ../disqus/manage.php:471
